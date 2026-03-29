@@ -1,0 +1,33 @@
+{
+  // use Helper.Translation.Get(<translation key>) in code // ru (russian)
+  // custom tree translation
+  "custom-tree.oak": "Дубовое Дерево",
+  "custom-tree.maple": "Кленовое Дерево",
+  "custom-tree.pine": "Сосновое Дерево",
+  "custom-tree.coconut": "Кокосовое Дерево",
+  "custom-tree.mushroom": "Грибное Дерево",
+  "custom-tree.mahogany": "Красное Дерево",
+  "custom-tree.palm": "Пальмовое Дерево",
+  "custom-tree.green-rain-wild": "Дикое Зеленое Дождевое Дерево",
+  "custom-tree.green-rain-lush": "Пышное Зеленое Дождевое Дерево",
+  "custom-tree.fiddlehead-fern": "Папоротник Фиддлхед",
+  "custom-tree.mystic": "Мистика Дерево",
+  // added by SVE Mod
+  "custom-tree.birch": "Березовое Дерево",
+  "custom-tree.fir": "Пихтовое Дерево",
+
+  // growth info translation
+  "growth-info.fully-grown": "развившийся",
+  "growth-info.stage": "фаза",
+  "growth-info.of": "из",
+  "growth-info.days-left": "дней осталось",
+  "growth-info.day-left": "день остался",
+
+  // for Generic Config Menu Mod
+  "config.mouse-hover.name": "Наведение мыши",
+  "config.mouse-hover.desc": "Наведите указатель мыши на плитку обрезки, чтобы отобразить метку, если она включена.",
+  "config.growth-info.name": "Информация о прирост",
+  "config.growth-info.desc": "Отображает рост урожая или стадию сбора урожая, если включено.",
+  "config.custom-keybinds.name": "Связка клавиш",
+  "config.custom-keybinds.desc": "Заменяет значение по умолчанию. Включение Mouse Hover отменяет это."
+}

@@ -1,0 +1,21 @@
+{
+  /*
+   | This file is automatically updated by ModManifestBuilder
+   | when the project is compiled.
+   | 
+   | Changes made to this file may be overwritten.
+   | 
+   */
+  "$schema": "https://smapi.io/schemas/manifest.json",
+  "UniqueID": "spacechase0.ExperienceBars",
+  "Name": "Experience Bars",
+  "Author": "kittycatcasey",
+  "Version": "1.4.6",
+  "Description": "Shows experience bars in the top-left corner.",
+  "MinimumApiVersion": "4.1",
+  "MinimumGameVersion": "1.6.14",
+  "EntryDll": "ExperienceBars.dll",
+  "UpdateKeys": [
+    "Nexus:509"
+  ]
+}

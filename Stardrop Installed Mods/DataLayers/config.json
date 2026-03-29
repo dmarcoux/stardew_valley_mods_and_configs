@@ -1,6 +1,6 @@
 {
   "CombineOverlappingBorders": true,
-  "ShowGrid": false,
+  "ShowGrid": true,
   "ColorScheme": "Default",
   "LegendAlphaOnHover": 0.2,
   "Controls": {

@@ -1,5 +1,5 @@
 {
   "mouse_hover": false,
-  "growth_info": false,
+  "growth_info": true,
   "custom_key": ""
 }

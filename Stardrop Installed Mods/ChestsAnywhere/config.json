@@ -3,8 +3,10 @@
   "ShowHoverTooltips": true,
   "EnableShippingBin": true,
   "AddOrganizePlayerInventoryButton": true,
-  "Range": "Unlimited",
-  "DisabledInLocations": [],
+  "Range": "CurrentLocation",
+  "DisabledInLocations": [
+    "UndergroundMine"
+  ],
   "ReopenLastChest": true,
   "DefaultCategory": null,
   "Controls": {

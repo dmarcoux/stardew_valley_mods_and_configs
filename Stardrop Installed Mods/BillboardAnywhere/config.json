@@ -1,8 +1,8 @@
 {
-  "CalendarKeyBinding": "B",
-  "QuestBoardKeyBinding": "H",
-  "SpecialOrderKeyBinding": "N",
-  "QiBoardKeyBinding": "J",
+  "CalendarKeyBinding": "None",
+  "QuestBoardKeyBinding": "None",
+  "SpecialOrderKeyBinding": "None",
+  "QiBoardKeyBinding": "None",
   "CalendarOffsetFromMenu": "-100, 100",
   "QuestOffsetFromMenu": "-200, 100",
   "SpecialOrderOffsetFromMenu": "-200, 200",

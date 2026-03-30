@@ -54,6 +54,7 @@ Each mod has to be manually downloaded, then added to Stardrop. After, it can be
 | [AutomaticGates](https://www.nexusmods.com/stardewvalley/mods/3109)           | Open and close gates automatically. Only for players, not animals.                                   |
 | [Billboard Anywhere](https://www.nexusmods.com/stardewvalley/mods/492)        | View the billboard from anywhere.                                                                    |
 | [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)           | Access your chests from anywhere. It can be restricted, like not usable when in mines.               |
+| [Convenient Inventory](https://www.nexusmods.com/stardewvalley/mods/10384)    | Improve inventory management with features like "Quick stack to nearby chests" and more.             |
 | [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)              | Overlay the world with visual data like accessibility, bee/Junimo/scarecrow/sprinkler coverage, etc. |
 | [DisplayEnergy](https://www.nexusmods.com/stardewvalley/mods/10662)           | Permanently display the player's current and max energy. Supports split-screen.                      |
 | [Experience Bars](https://www.nexusmods.com/stardewvalley/mods/509)           | Show experience bars for your skills.                                                                |

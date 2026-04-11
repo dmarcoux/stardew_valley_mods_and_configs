@@ -24,6 +24,10 @@ ln -s "$(pwd)/Stardrop Installed Mods" ~/.steam/steam/steamapps/common/Stardew\ 
 3. Extract files from ZIP archive into Stardew Valley's directory.
 4. For updates -> Delete all mods. Download and extract ZIP archive again.
 
+### Steam Input
+
+For the `Chests Anywhere` mod, map the `L4` back button on the Steam Deck to the key `B`.
+
 # Stardrop Settings
 
 **SMAPI Path**
